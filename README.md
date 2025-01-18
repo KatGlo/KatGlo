@@ -8,11 +8,16 @@
   </em>
 </p>
 -->
+<p align="center">
+  <em>
+    I'm <strong>Kate</strong>, a Data Science student at AGH University with a background in Mathematics.
+  </em>
+</p>
 ---
 
 ## 🚀 Tech Stack
-
-During my studies (and independently), I've had the opportunity to work with:
+<!-- 
+During my studies (and independently), I've had the opportunity to work with:-->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
