@@ -68,7 +68,7 @@ During my studies (and independently), I've had the opportunity to work with:
 - 👩‍🎓 Currently studying **Data Science** at **AGH University**  
 - 🎯 Postgraduate in **Cybersecurity**  
 - ⚡ Enthusiast of **Machine Learning**, **LLMs**, and all things tech  
-- 🎮 Also into **gaming, music, cinema, and cars**  
+- 🎮 Also into **gaming, music, cinema, and good book**  
 
 > Always eager to learn, explore, and collaborate! Thanks for visiting my profile.
 
