@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
-
+<!-- 
 <p align="center">
   <em>
     I'm <strong>Kate</strong>, a Data Science student at AGH University with a background in Mathematics.
@@ -7,7 +7,7 @@
     My passion lies in the <strong>intersection of AI & Cybersecurity</strong> — exploring how Machine Learning can safeguard systems and data.
   </em>
 </p>
-
+-->
 ---
 
 ## 🚀 Tech Stack
@@ -68,7 +68,7 @@ During my studies (and independently), I've had the opportunity to work with:
 - 👩‍🎓 Currently studying **Data Science** at **AGH University**  
 - 🎯 Postgraduate in **Cybersecurity**  
 - ⚡ Enthusiast of **Machine Learning**, **LLMs**, and all things tech  
-- 🎮 Also into **gaming, music, cinema, and good book**  
+- 🎮 Also into **gaming, music, cinema and good book**  
 
 > Always eager to learn, explore, and collaborate! Thanks for visiting my profile.
 
