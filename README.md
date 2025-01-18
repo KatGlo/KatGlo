@@ -7,13 +7,9 @@
     My passion lies in the <strong>intersection of AI & Cybersecurity</strong> — exploring how Machine Learning can safeguard systems and data.
   </em>
 </p>
--->
-<p align="center">
-  <em>
-    I'm <strong>Kate</strong>, a Data Science student at AGH University with a background in Mathematics.
-  </em>
-</p>
 ---
+-->
+
 
 ## 🚀 Tech Stack
 <!-- 
