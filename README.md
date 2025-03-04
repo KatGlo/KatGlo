@@ -16,7 +16,8 @@
 During my studies (and independently), I've had the opportunity to work with:-->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C/C++-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -25,8 +26,15 @@ During my studies (and independently), I've had the opportunity to work with:-->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <!-- Optional: If you use RStudio -->
-  <!-- <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/> -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-1D76DB?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg"/>
+  <img src="https://img.shields.io/badge/Trino-0093DD?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"/>
+  <img src="https://img.shields.io/badge/Dremio-0082C9?style=for-the-badge&logo=dremio&logoColor=white" alt="Dremio"/>
+  <img src="https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-FF1744?style=for-the-badge&logo=security&logoColor=white" alt="Penetration Testing"/>
 </p>
 
 ---
@@ -55,7 +63,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 - 👩‍🎓 Currently studying **Data Science** at **AGH University**  
 - 🎯 Postgraduate in **Cybersecurity**  
 - ⚡ Enthusiast of **Machine Learning**, **LLMs**, and all things tech  
-- 🎮 Also into **gaming, music, cinema and good book**  
+- 🎮 Also into **gaming, music, cinema, manga and light novels**  
 
 > Always eager to learn, explore, and collaborate! Thanks for visiting my profile.
 
