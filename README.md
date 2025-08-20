@@ -40,7 +40,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-FF1744?style=for-the-badge&logo=security&logoColor=white" alt="Penetration Testing"/>
   <img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
