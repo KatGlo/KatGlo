@@ -124,29 +124,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## 🎯 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KatGlo&theme=radical&utcOffset=1" alt="Commit Time" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KatGlo&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" width="49%" />
-</div>
-
-<details>
-<summary>📊 More Stats</summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KatGlo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=FF1CF7&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1CF7&sideLabels=FF1CF7&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KatGlo&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</div>
-
-</details>
-
----
-
 ## 🎉 About Me
 
 <div align="center">
@@ -182,12 +159,8 @@ const kate = {
 
 ---
 
-## 🌟 Fun Fact
-
 <div align="center">
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=FF1CF7&aColor=FFFFFF)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1CF7&height=100&section=footer" />
 </div>
 
 <!-- 
@@ -195,6 +168,7 @@ const kate = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](LINK_TO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourAddress-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
 -->
+
 
 
 
