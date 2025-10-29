@@ -52,7 +52,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
----
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -62,7 +62,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+---
 
 ## 📚 Fields of Study & Interests
 
