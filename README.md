@@ -60,33 +60,16 @@ During my studies (and independently), I've had the opportunity to work with:-->
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Card with advanced features -->
   <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF" alt="KatGlo's GitHub stats" width="49%" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KatGlo&theme=radical&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7" alt="KatGlo's GitHub Streak" width="49%" />
-
+  <img src="https://streak-stats.demolab.com/?user=KatGlo&theme=radical&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7" alt="KatGlo's GitHub Streak" width="49%" />
 </div>
-
 <div align="center">
-  
-  <!-- Top Languages with better layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
-  
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatGlo&theme=radical&hide_border=true&bg_color=0D1117&color=FF1CF7&line=FF1CF7&point=FFFFFF" alt="Contribution Graph" width="49%" />
-
 </div>
-
 <div align="center">
-  
-  <!-- Trophy Stats -->
   <img src="https://github-profile-trophy.vercel.app/?username=KatGlo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%" />
-
 </div>
-
-<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KatGlo&label=Profile%20Views&color=FF1CF7&style=flat-square" alt="Profile Views" />
 </div>
