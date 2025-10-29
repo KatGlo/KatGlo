@@ -106,9 +106,9 @@ During my studies (and independently), I've had the opportunity to work with:-->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KatGlo&theme=radical&utcOffset=1" alt="Commit Time" width="32%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KatGlo&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
