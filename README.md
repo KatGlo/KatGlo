@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/github/followers/KatGlo?label=Followers&style=flat-square&color=FF1CF7" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/KatGlo?label=Stars&style=flat-square&color=FF1CF7" alt="GitHub Stars" />
 </p>
+
 ---
+
 
 ## 🚀 Tech Stack
 <!-- 
@@ -50,18 +52,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
----
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 ---
 
 ## 📚 Fields of Study & Interests
@@ -110,6 +100,18 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -127,6 +129,10 @@ During my studies (and independently), I've had the opportunity to work with:-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](LINK_TO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourAddress-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
 -->
+
+
+
+
 
 
 
