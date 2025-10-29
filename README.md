@@ -56,11 +56,38 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ## 📚 Fields of Study & Interests
 
-- **Data Exploration** and **Big Data Analysis**  
-- **Neural Networks** and **Deep Learning**  
-- **Machine Learning** (including deployment)  
-- **Natural Language Processing (NLP)**  
-- **Cybersecurity** and **Threat Detection**  
+<div align="center">
+
+### 🔍 Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Data%20Exploration-FF6B6B?style=for-the-badge&logo=data&logoColor=white" alt="Data Exploration"/>
+  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-4ECDC4?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data Analysis"/>
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-45B7D1?style=for-the-badge&logo=r&logoColor=white" alt="Statistical Modeling"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF9FF3?style=for-the-badge&logo=neural-network&logoColor=white" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-54A0FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/ML%20Deployment-5F27CD?style=for-the-badge&logo=docker&logoColor=white" alt="ML Deployment"/>
+  <img src="https://img.shields.io/badge/NLP-00D2D3?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+</p>
+
+### 🔐 Cybersecurity & Security
+<p>
+  <img src="https://img.shields.io/badge/Threat%20Detection-FF3838?style=for-the-badge&logo=security&logoColor=white" alt="Threat Detection"/>
+  <img src="https://img.shields.io/badge/AI%20Security-FF9F43?style=for-the-badge&logo=shield&logoColor=white" alt="AI Security"/>
+  <img src="https://img.shields.io/badge/Cryptography-6C5CE7?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
+</p>
+
+### 🚀 Current Focus Areas
+<p>
+  <img src="https://img.shields.io/badge/AI%20%2B%20Security%20Intersection-E17055?style=for-the-badge&logo=ai&logoColor=white" alt="AI + Security"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Applications-00B894?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Research%20%26%20Innovation-FDCB6E?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research"/>
+</p>
+
+</div>
 
 ---
 
