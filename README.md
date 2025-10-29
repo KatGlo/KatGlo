@@ -60,31 +60,31 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ### 🔍 Data Science & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Data%20Exploration-FF6B6B?style=for-the-badge&logo=data&logoColor=white" alt="Data Exploration"/>
-  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-4ECDC4?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data Analysis"/>
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-45B7D1?style=for-the-badge&logo=r&logoColor=white" alt="Statistical Modeling"/>
+  <img src="https://img.shields.io/badge/Data%20Exploration-2D3748?style=for-the-badge&logo=data&logoColor=FF1CF7" alt="Data Exploration"/>
+  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-1A202C?style=for-the-badge&logo=apachespark&logoColor=FF1CF7" alt="Big Data Analysis"/>
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-2D3748?style=for-the-badge&logo=r&logoColor=FF1CF7" alt="Statistical Modeling"/>
 </p>
 
 ### 🤖 Machine Learning & AI
 <p>
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF9FF3?style=for-the-badge&logo=neural-network&logoColor=white" alt="Neural Networks"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-54A0FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/ML%20Deployment-5F27CD?style=for-the-badge&logo=docker&logoColor=white" alt="ML Deployment"/>
-  <img src="https://img.shields.io/badge/NLP-00D2D3?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-1A202C?style=for-the-badge&logo=neural-network&logoColor=FF1CF7" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-2D3748?style=for-the-badge&logo=tensorflow&logoColor=FF1CF7" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/ML%20Deployment-1A202C?style=for-the-badge&logo=docker&logoColor=FF1CF7" alt="ML Deployment"/>
+  <img src="https://img.shields.io/badge/NLP-2D3748?style=for-the-badge&logo=python&logoColor=FF1CF7" alt="NLP"/>
 </p>
 
 ### 🔐 Cybersecurity & Security
 <p>
-  <img src="https://img.shields.io/badge/Threat%20Detection-FF3838?style=for-the-badge&logo=security&logoColor=white" alt="Threat Detection"/>
-  <img src="https://img.shields.io/badge/AI%20Security-FF9F43?style=for-the-badge&logo=shield&logoColor=white" alt="AI Security"/>
-  <img src="https://img.shields.io/badge/Cryptography-6C5CE7?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-1A202C?style=for-the-badge&logo=security&logoColor=FF1CF7" alt="Threat Detection"/>
+  <img src="https://img.shields.io/badge/AI%20Security-2D3748?style=for-the-badge&logo=shield&logoColor=FF1CF7" alt="AI Security"/>
+  <img src="https://img.shields.io/badge/Cryptography-1A202C?style=for-the-badge&logo=lock&logoColor=FF1CF7" alt="Cryptography"/>
 </p>
 
 ### 🚀 Current Focus Areas
 <p>
-  <img src="https://img.shields.io/badge/AI%20%2B%20Security%20Intersection-E17055?style=for-the-badge&logo=ai&logoColor=white" alt="AI + Security"/>
-  <img src="https://img.shields.io/badge/LLMs%20%26%20Applications-00B894?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Research%20%26%20Innovation-FDCB6E?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research"/>
+  <img src="https://img.shields.io/badge/AI%20%2B%20Security%20Intersection-2D3748?style=for-the-badge&logo=ai&logoColor=FF1CF7" alt="AI + Security"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Applications-1A202C?style=for-the-badge&logo=openai&logoColor=FF1CF7" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Research%20%26%20Innovation-2D3748?style=for-the-badge&logo=researchgate&logoColor=FF1CF7" alt="Research"/>
 </p>
 
 </div>
