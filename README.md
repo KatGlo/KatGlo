@@ -124,41 +124,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## 🎉 About Me
-
-<div align="center">
-
-```typescript
-const kate = {
-    education: {
-        degree: "M.Sc. in Data Science",
-        university: "AGH University",
-        postgraduate: "Cybersecurity"
-    },
-    interests: ["Machine Learning", "LLMs", "Cybersecurity"],
-    hobbies: ["Modern Technology", "RPG Games", "Rock Music"],
-    currentFocus: "AI & Security Intersection",
-    lifePhilosophy: "Always eager to learn, explore, and collaborate!"
-};
-```
-
-</div>
-
-<details>
-<summary>⚡ Quick Facts</summary>
-<br/>
-
-- 👩‍🎓 M.Sc. in **Data Science** at **AGH University**  
-- 🎯 Postgraduate in **Cybersecurity**  
-- ⚡ Enthusiast of **Machine Learning**, **LLMs**, and all things tech  
-- 🎮 Also into **Modern technology, RPG games, Rock music**  
-- 🔐 Passionate about **AI-powered Security Solutions**
-- 📚 Constantly learning and building projects
-
-</details>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1CF7&height=100&section=footer" />
 </div>
@@ -168,6 +133,7 @@ const kate = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](LINK_TO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourAddress-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
 -->
+
 
 
 
