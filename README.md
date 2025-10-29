@@ -56,38 +56,41 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ## 📚 Fields of Study & Interests
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### 🔍 Data Science & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Data%20Exploration-2D3748?style=for-the-badge&logo=data&logoColor=FF1CF7" alt="Data Exploration"/>
-  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-1A202C?style=for-the-badge&logo=apachespark&logoColor=FF1CF7" alt="Big Data Analysis"/>
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-2D3748?style=for-the-badge&logo=r&logoColor=FF1CF7" alt="Statistical Modeling"/>
-</p>
+**Data Exploration** • **Big Data Analysis**  
+**Statistical Modeling** • **Data Visualization**
+
+</td>
+<td align="center" width="50%">
 
 ### 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Neural%20Networks-1A202C?style=for-the-badge&logo=neural-network&logoColor=FF1CF7" alt="Neural Networks"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-2D3748?style=for-the-badge&logo=tensorflow&logoColor=FF1CF7" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/ML%20Deployment-1A202C?style=for-the-badge&logo=docker&logoColor=FF1CF7" alt="ML Deployment"/>
-  <img src="https://img.shields.io/badge/NLP-2D3748?style=for-the-badge&logo=python&logoColor=FF1CF7" alt="NLP"/>
-</p>
+**Neural Networks** • **Deep Learning**  
+**ML Deployment** • **NLP**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### 🔐 Cybersecurity & Security
-<p>
-  <img src="https://img.shields.io/badge/Threat%20Detection-1A202C?style=for-the-badge&logo=security&logoColor=FF1CF7" alt="Threat Detection"/>
-  <img src="https://img.shields.io/badge/AI%20Security-2D3748?style=for-the-badge&logo=shield&logoColor=FF1CF7" alt="AI Security"/>
-  <img src="https://img.shields.io/badge/Cryptography-1A202C?style=for-the-badge&logo=lock&logoColor=FF1CF7" alt="Cryptography"/>
-</p>
+**Threat Detection** • **AI Security**  
+**Cryptography** • **Secure Systems**
 
-### 🚀 Current Focus Areas
-<p>
-  <img src="https://img.shields.io/badge/AI%20%2B%20Security%20Intersection-2D3748?style=for-the-badge&logo=ai&logoColor=FF1CF7" alt="AI + Security"/>
-  <img src="https://img.shields.io/badge/LLMs%20%26%20Applications-1A202C?style=for-the-badge&logo=openai&logoColor=FF1CF7" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Research%20%26%20Innovation-2D3748?style=for-the-badge&logo=researchgate&logoColor=FF1CF7" alt="Research"/>
-</p>
+</td>
+<td align="center" width="50%">
 
-</div>
+### 🚀 Current Focus
+**AI + Security Intersection**  
+**LLMs & Applications**  
+**Research & Innovation**
+
+</td>
+</tr>
+</table>
 
 ---
 
