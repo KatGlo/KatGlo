@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    M.Sc. in <strong>Data Science</strong> | Postgraduate in <strong>Cybersecurity</strong><br/>
+    M.Sc. Eng. in <strong>Data Science</strong> | B.Sc. in <strong>Mathematics</strong> | Postgraduate in <strong>Cybersecurity</strong><br/>
     Passionate about the <strong>intersection of AI & Security</strong> 🔐🤖
   </em>
 </p>
