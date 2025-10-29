@@ -1,14 +1,21 @@
-<h1 align="center">Hello there! 👋</h1>
-<!-- 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF1CF7&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;I'm+Kate+%7C+Data+Scientist;AI+%2B+Cybersecurity+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <em>
-    I'm <strong>Kate</strong>, a Data Science student at AGH University with a background in Mathematics.
-    Currently expanding my knowledge in cybersecurity through a postgraduate program.
-    My passion lies in the <strong>intersection of AI & Cybersecurity</strong> — exploring how Machine Learning can safeguard systems and data.
+    M.Sc. in <strong>Data Science</strong> | Postgraduate in <strong>Cybersecurity</strong><br/>
+    Passionate about the <strong>intersection of AI & Security</strong> 🔐🤖
   </em>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KatGlo&label=Profile%20Views&color=FF1CF7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KatGlo?label=Followers&style=flat-square&color=FF1CF7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/KatGlo?label=Stars&style=flat-square&color=FF1CF7" alt="GitHub Stars" />
+</p>
+
 ---
--->
 
 
 ## 🚀 Tech Stack
@@ -60,17 +67,36 @@ During my studies (and independently), I've had the opportunity to work with:-->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF" alt="KatGlo's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" alt="KatGlo's GitHub stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KatGlo&theme=radical&hide_border=true&background=0D1117&stroke=FF1CF7&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1CF7&sideLabels=FF1CF7&dates=FFFFFF" alt="GitHub Streak" height="180em" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatGlo&theme=radical&hide_border=true&bg_color=0D1117&color=FF1CF7&line=FF1CF7&point=FFFFFF" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=10&card_width=445" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatGlo&theme=high-contrast&hide_border=true&bg_color=0D1117&color=FF1CF7&line=FF1CF7&point=FFFFFF&area=true&height=180" alt="Contribution Graph" />
 </div>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KatGlo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatGlo&theme=radical" alt="Profile Summary" />
 </div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KatGlo&label=Profile%20Views&color=FF1CF7&style=flat-square" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KatGlo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="98%" />
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
