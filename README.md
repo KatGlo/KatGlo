@@ -56,41 +56,11 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ## 📚 Fields of Study & Interests
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔍 Data Science & Analytics
-**Data Exploration** • **Big Data Analysis**  
-**Statistical Modeling** • **Data Visualization**
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 Machine Learning & AI
-**Neural Networks** • **Deep Learning**  
-**ML Deployment** • **NLP**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🔐 Cybersecurity & Security
-**Threat Detection** • **AI Security**  
-**Cryptography** • **Secure Systems**
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Current Focus
-**AI + Security Intersection**  
-**LLMs & Applications**  
-**Research & Innovation**
-
-</td>
-</tr>
-</table>
+- **Data Exploration** and **Big Data Analysis**  
+- **Neural Networks** and **Deep Learning**  
+- **Machine Learning** (including deployment)  
+- **Natural Language Processing (NLP)**  
+- **Cybersecurity** and **Threat Detection**  
 
 ---
 
