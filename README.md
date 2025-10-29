@@ -68,7 +68,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 <div align="center">
   
-| 🏆 Certification | 🏢 Provider | � Status |
+| 🏆 Certification | 🏢 Provider | 📅 Status |
 |:-----------------|:-----------:|:---------:|
 | **IBM DevOps and Software Engineering** | IBM | ✅ Completed |
 | **Google Cloud Cybersecurity** | Google Cloud | ✅ Completed |
@@ -77,7 +77,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## �📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" alt="KatGlo's GitHub stats" width="49%" />
@@ -104,7 +104,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## � Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <picture>
@@ -133,7 +133,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](LINK_TO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourAddress-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
 -->
-
 
 
 
