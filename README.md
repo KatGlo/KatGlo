@@ -14,18 +14,6 @@
   <img src="https://img.shields.io/github/followers/KatGlo?label=Followers&style=flat-square&color=FF1CF7" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/KatGlo?label=Stars&style=flat-square&color=FF1CF7" alt="GitHub Stars" />
 </p>
-
----
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 ## 🚀 Tech Stack
@@ -63,6 +51,18 @@ During my studies (and independently), I've had the opportunity to work with:-->
 </p>
 
 ---
+
+---
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ## 📚 Fields of Study & Interests
 
