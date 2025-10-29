@@ -61,7 +61,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF" alt="KatGlo's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=KatGlo&theme=radical&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7" alt="KatGlo's GitHub Streak" width="49%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
