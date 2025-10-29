@@ -77,6 +77,18 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,18 +108,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KatGlo&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
