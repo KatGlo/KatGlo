@@ -91,10 +91,10 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatGlo&theme=radical" alt="Contribution Graph" />
