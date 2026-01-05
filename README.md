@@ -70,6 +70,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
   
 | 🏆 Certification | 🏢 Provider | 📅 Status |
 |:-----------------|:-----------:|:---------:|
+| **IBM Data Engineering** | IBM | ✅ Completed |
 | **IBM DevOps and Software Engineering** | IBM | ✅ Completed |
 | **Google Cloud Cybersecurity** | Google Cloud | ✅ Completed |
 
