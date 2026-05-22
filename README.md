@@ -97,9 +97,9 @@ During my studies (and independently), I've had the opportunity to work with:-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatGlo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
 </div> -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatGlo&theme=radical" alt="Contribution Graph" />
-</div>
+</div>  -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KatGlo&theme=radical" alt="Repos per Language" width="32%" />
