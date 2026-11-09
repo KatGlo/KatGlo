@@ -1,4 +1,4 @@
-<h1 align="center">
+w<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF1CF7&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;I'm+Kasia;PhD+Researcher+in+AI;AI+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
 </h1>
 
@@ -62,20 +62,6 @@ During my studies (and independently), I've had the opportunity to work with:-->
 - **Machine Learning** (including deployment)  
 - **Natural Language Processing (NLP)**  
 - **Cybersecurity** and **Threat Detection**  
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="30" height="30" /> Certifications & Courses
-
-<div align="center">
-  
-| 🏆 Certification | 🏢 Provider | 📅 Status |
-|:-----------------|:-----------:|:---------:|
-| **IBM Data Engineering** | IBM | ✅ Completed |
-| **IBM DevOps and Software Engineering** | IBM | ✅ Completed |
-| **Google Cloud Cybersecurity** | Google Cloud | ✅ Completed |
-
-</div>
 
 ---
 
