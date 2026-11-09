@@ -19,7 +19,7 @@
 ---
 
 
-## 🚀 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" /> Tech Stack
 <!-- 
 During my studies (and independently), I've had the opportunity to work with:-->
 <p align="center">
@@ -55,7 +55,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## 📚 Fields of Study & Interests
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="30" height="30" /> Fields of Study & Interests
 
 - **Data Exploration** and **Big Data Analysis**  
 - **Neural Networks** and **Deep Learning**  
@@ -65,7 +65,7 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## 🎓 Certifications & Courses
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="30" height="30" /> Certifications & Courses
 
 <div align="center">
   
@@ -79,8 +79,17 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 ---
 
-## 📈 Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" height="30" /> Contribution Activity
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output-pacman/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output-pacman/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<!-- Snake (previous version):
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake-dark.svg">
@@ -88,10 +97,19 @@ During my studies (and independently), I've had the opportunity to work with:-->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KatGlo/KatGlo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution calendar" src="profile-3d-contrib/profile-season-animate.svg">
+  </picture>
+</div>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KatGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="170" />
@@ -119,6 +137,8 @@ During my studies (and independently), I've had the opportunity to work with:-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](LINK_TO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourAddress-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
 -->
+
+<img src="assets/wave-footer.svg" alt="" width="100%" />
 
 
 
