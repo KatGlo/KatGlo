@@ -59,8 +59,8 @@ During my studies (and independently), I've had the opportunity to work with:-->
 
 - **Data Exploration** and **Big Data Analysis**  
 - **Neural Networks** and **Deep Learning**  
-- **Machine Learning** (including deployment)  
-- **Natural Language Processing (NLP)**  
+- **Machine Learning**
+- **Natural Language Processing**  
 - **Cybersecurity** and **Threat Detection**  
 
 ---
